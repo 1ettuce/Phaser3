@@ -7,6 +7,7 @@
   - ESC를 눌러 게임을 일시정지 및 해제할 수 있습니다.
 
 - [Start](https://1ettuce.github.io/Phaser3/)
+  - 테스트 시작
 
 ## Tech Stack
 `JavaScript`, `Phaser 3`
