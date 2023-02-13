@@ -2,7 +2,6 @@ import Phaser from "phaser";
 import Beam from "../effects/Beam";
 import Explosion from "../effects/Explosion";
 import Config from "../Config";
-import PlayingScene from "../scenes/PlayingScene";
 
 export const Direction = Object.freeze({
   Up: "Up",
